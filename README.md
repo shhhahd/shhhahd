@@ -1,4 +1,4 @@
-<h2 align="center">السلام عليكم ورحمة الله<br>I'm Shahd Amr</h2>
+<h1 align="center">I'm Shahd Amr</h1>
 
 ###
 
