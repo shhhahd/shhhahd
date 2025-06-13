@@ -2,6 +2,10 @@
 
 ###
 
+<p align="center">Machine Learning Engineer</p>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="123" height="35" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="123" height="35" alt="discord logo"  />
