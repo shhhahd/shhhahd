@@ -34,7 +34,7 @@
 
 ###
 
-<img align="right" height="153" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoOXhxbWRiODAxZmxtam1iY2N0Zms2YXVqZ3NuNHJpNXp0bjdvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u0OMQgZxRhzyqRKIi8/giphy.gif"  />
+<img align="right" height="153" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoOXhxbWRiODAxZmxtam1iY2N0Zms2YXVqZ3NuNHJpNXp0bjdvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u0OMQgZxRhzyqRKIi8/giphy.gif"  />
 
 ###
 
