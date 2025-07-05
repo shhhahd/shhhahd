@@ -22,19 +22,19 @@
 
 <div align="center">
   <a href="https://www.kaggle.com/shhha2004" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="41" alt="kaggle logo"  width="70" &nbsp &nbsp />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="41" alt="kaggle logo"  width="60" &nbsp &nbsp />
   </a>
   <a href="https://www.linkedin.com/in/shahd-amr-1b8372285/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="41" alt="linkedin logo"  width="70" &nbsp &nbsp />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="41" alt="linkedin logo"  width="60" &nbsp &nbsp />
   </a>
   <a href="https://discord.com/users/730187826301239377" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="41" alt="discord logo"  width="70" />
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="41" alt="discord logo"  width="60" />
   </a>
 </div>
 
 ###
 
-<img align="right" height="153" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoOXhxbWRiODAxZmxtam1iY2N0Zms2YXVqZ3NuNHJpNXp0bjdvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u0OMQgZxRhzyqRKIi8/giphy.gif"  />
+<img align="right" height="153" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoOXhxbWRiODAxZmxtam1iY2N0Zms2YXVqZ3NuNHJpNXp0bjdvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u0OMQgZxRhzyqRKIi8/giphy.gif"  />
 
 ###
 
