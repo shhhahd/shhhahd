@@ -31,6 +31,9 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="41" alt="discord logo"  width="80" />
   </a>
 </div>
+###
+
+<img align="right" height="163" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoOXhxbWRiODAxZmxtam1iY2N0Zms2YXVqZ3NuNHJpNXp0bjdvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u0OMQgZxRhzyqRKIi8/giphy.gif"  />
 
 
 
@@ -41,16 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shhhahd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="153" alt="languages graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shhhahd/shhhahd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shhhahd/shhhahd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shhhahd/shhhahd/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
-<img align="right" height="163" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoOXhxbWRiODAxZmxtam1iY2N0Zms2YXVqZ3NuNHJpNXp0bjdvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u0OMQgZxRhzyqRKIi8/giphy.gif"  />
+<img src="https://raw.githubusercontent.com/shhhahd/shhhahd/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 
 ###
