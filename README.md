@@ -22,15 +22,13 @@
 
 <div align="center">
   <a href="https://www.kaggle.com/shhha2004" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="41" alt="kaggle logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="41" alt="kaggle logo" img width="12" />
   </a>
-  <img width="50" />
   <a href="https://www.linkedin.com/in/shahd-amr-1b8372285/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="41" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="41" alt="linkedin logo" img width="12" />
   </a>
-  <img width="50" />
   <a href="https://discord.com/users/730187826301239377" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="41" alt="discord logo" />
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="41" alt="discord logo" img width="12" />
   </a>
 </div>
 
